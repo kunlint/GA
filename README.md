@@ -1,4 +1,7 @@
-# GA
-Stat243-fall2021-final-project
+# Genetic Algorithm For Variable Selection with Regression
 
-# introduction
+## Introduction
+
+## Install
+
+## Example
